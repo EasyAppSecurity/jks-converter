@@ -21,5 +21,5 @@ Target certificate name<br/>
 
 ### Get public keytore ###
 
-For create public java keysore (without private key):<br/>
+For create public java keystore (without private key):<br/>
 `keytool -importcert -file public.cer -keystore public -alias importkey -storepass importkey`
